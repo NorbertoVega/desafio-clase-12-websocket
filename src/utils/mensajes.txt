@@ -1,0 +1,20 @@
+[
+  {
+    "email": "juan@gmail.com",
+    "text": "¡Hola! ¿Que tal?",
+    "time": "04/03/2022 15:50:22",
+    "id": 1
+  },
+  {
+    "email": "pedro@gmail.com",
+    "text": "¡Muy bien! ¿Y vos?",
+    "time": "04/03/2022 15:50:22",
+    "id": 2
+  },
+  {
+    "email": "ana@gmail.com",
+    "text": "¡Genial!",
+    "time": "04/03/2022 15:50:22",
+    "id": 3
+  }
+]
